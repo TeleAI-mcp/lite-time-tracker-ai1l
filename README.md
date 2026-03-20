@@ -1,2 +1,3 @@
-# lite-time-tracker-ai1l
+# Lite Time Tracker Ai1L
+
 A repository to test GitHub automation for issue management.
